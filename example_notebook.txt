@@ -1,0 +1,3 @@
+# Example Notebook
+
+This is a placeholder content for the example_notebook.txt file.
